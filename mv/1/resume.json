@@ -1,0 +1,143 @@
+{
+  "basics": {
+    "name": "AUM-E-HANI",
+    "label": "Manager Web Development",
+    "picture": "",
+    "email": "aumehani.el@gmail.com",
+    "phone": "+92-333-3278381",
+    "degree": "B.S. in Computer Engineering",
+    "website": "",
+    "objective": "To work with professionals in the field to utilize and elevate my technical and management skills in an organization that requires proficient talent in addition to awareness of their client’s needs and provides a platform for employee’s career growth and personal development.",
+    "summary": "* Good working knowledge of multilingual web applications design, development and demonstration.\n*  Positive attitude with a mind set of delivering development services in a most professional manner. \n*  Skilled in verbal and written business communication and ability to deliver effective presentations. \n*  Proven ability to take business requirements and translate them into a desired technical solution. \n*  Experience of configuring and handling Apache web servers and handling of open source projects. \n* Experience of Business process Re-engineering, process automation and business improvements. \n*  Strong working knowledge of MS Office Suite and Internet search. \n* Ability to define process flows and drive them across the associated departments. \n* Strong research and analytical skills along with good statistical knowledge. \n* Knowledge of various marketing channels and ability to interpret social media trends. \n* Knowledge of Search Engine Optimization (SEO) tools and techniques.",
+    "highlights": "* Good communication and documentation skills in both technical and business terminology. \n* Organizational and conflict resolution skills. \n* Ability to manage multiple projects and team members as Technical Leader and Project Manager. \n* Proven record of building and managing self-organizing team with continuous improvement. \n* Result Oriented, Strong Follow-up, Responsible and Responsive.",
+    "location": {
+      "address": "Block 14 Gulistan e Johar",
+      "postalCode": "75290",
+      "city": "Karachi",
+      "countryCode": "PK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aumehani",
+        "url": "http://pk.linkedin.com/in/aumehani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SBT-Japan, Pakistan Office",
+      "position": "Manager - Web Development",
+      "website": "",
+      "startDate": "2011-12-20",
+      "endDate": "to date",
+      "summary": "* Overall project management of web-based projects including design, functionalities and business process implementation. \n* End-end management of company's multilingual websites, website control panels and internal HRMS. \n* Complete handling of web-marketing strategies that includes managing email campaigns and promotional designs for social media for various company websites. \n* Technical co-ordination with managers related to the implementation of new strategies & processes. \n* Consult with cross functional teams to develop and document Website requirements and user guides. \n* Source, select and organize information for inclusion and design the appearance, layout and flow of different Web projects. \n* Co-ordinate with SEO, Sales & Marketing staff to convert marketing techniques into technical solutions. \n* Being involved with top management in implementing strategies to improve business operations. \n* Bringing improvement and enhancement as per new and changing requirements within existing project based on informal implementation of SCRUM. \n* Handling of major design requirements of local and overseas offices including HTML & design email templates, social media & print media advertisements, job advertisements, branding designs including posters, standees & banners etc, office stationary including envelops, visiting cards, employee cards, parking stickers etc, office marketing material including brochures, jackets, magazine, flyers etc. \n* Maintaining corresponding SQL server and MySQL databases of different web projects. \n* From building the concept and documentation including the Planning, designing, development phases implemented a complete process and system of a new SBT Employee Dashboard. \n* Developed automated solutions to speed up the process flows and reduce resource dependencies. \n* Solely responsible for processing of Bulk Emails with the integration of third party email marketing tool [Interspire]. PHP Scripts to integrate current database with email marketing tool [Interspire]. \n* Configuration and management of different web servers (Apache Ubuntu / Centos). \n* Experience of managing and maintaining web speed with heavy web traffic. \n* Development of SEO tracking Tools to classify the internet traffic into different techniques like PPC, SEO, banner advertisements and emails. \n* Implemented CloudFlare solution for the acceleration and security of website from DDOS attacks. \n* Implemented Disaster Recovery Plan by creating the runtime backup of web server on AWS solution. \n* Leading a team of Software Engineer, PHP developers and designers and QA Engineer. \n* Recruitment and training of new technical resources and continuously assessing performance of the team and mentoring them to meet the quality code. \n*  Delegate day to day operations and assign weekly and monthly tasks to the team. \n* Assist technical team in design and development tasks. Guide QA staff in creating test cases. \n* Communicates and enforce coding and designing standards to the development team. \n* Reviews the work of team after completion and suggest enhancements for optimization.",
+      "highlights": [
+        "<u>Multiple Company's Websites:</u> Dynamic and Interactive high traffic websites with basic features of stock search, listing and detail pages, Inquiry page stock promotion areas and website control panels. \n <u>Email Marketing Software:</u> A project for sending Bulk Emails to all existing & new customers in SBT DB. Developed automatic email campaigns scheduled to run continuous through Cron on Web Server. \n <u>BI Tools:</u> Admin panel to estimate the ROI of business through total user registrations and monthly shipped units. The SEO tracking tool used to calculate the return on budget spent for PPC techniques. \n <u>Responsive Web Pages:</u> Responsive web pages for Business related Region-wise Stock pages for different countries and an informative responsive career page on SBT Website. \n <u>HRMS:</u> An in-house project, SBT-dashboard for HRM purpose to be used by all employees of SBT. Major modules covering Automated Recruitment Process, Employee Management, Attendance Management, Close-ended Ticket Management, Task & Performance Management etc. \n <u>HRMS E-Learning Center Training Dashboard:</u> A project to provide web based learning center to new joiners including orientation, system knowledge presentations and Industry knowledge course manuals. \n <u>Auction Administration:</u> Automating the complex manual process of purchasing units from Auctions."
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "InfiniLogic (Pvt.) Ltd",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2006-04-03",
+      "endDate": "2011-02-11",
+      "summary": "* Analyzes and development of web systems including documentation, designing, testing and maintenance. \n* Website designing using free-energy framework that includes PHP, CSS, Java scripting and slight concepts of AJAX, XML and XSL (Tools: Programmer's Notepad, IE, MS FrontPage, Eclipse). \n* Maintaining corresponding databases of transactional websites. (Tools: SQLYog, LDAP). \n* Handling local and online web server. (Tools: WinSCP3, WMware Server Console, Putty). \n* Directing customer support staff in operational requests related to project. \n* Written PHP scripts to automate the updating process of system information based on WHOIS info. \n* Implementation of Web services, WSDL, API's and managing and maintaining web servers.",
+      "highlights": [
+        "<u>Universal Domains: </u> A dynamic and e-commerce website for domain registration, hosting and email services. Also a reseller extension (Mini-CRM) of these services as separate project. \n <u>Formations House and Offshore Center: </u> Dynamic and e-commerce website for company formation."
+      ]
+    }
+  ],
+  "workLabel": [
+    {
+      "company": "HL (Pvt.) Ltd ",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2011-02-21",
+      "endDate": "2011-10-01",
+      "summary": "* Analyzes and development of web systems including documentation, designing, developing, testing and maintenance of core project. Also involve in process reengineering. \n* Development of Multilingual versions of the core product. \n* Solely responsible for designing processes, architecture and development of client-support system named as Ticketing system incorporating separate panels for in-house usage and client interaction.",
+      "highlights": [ ""
+      ]
+    }
+  ],
+  "additionalWorkLabel": [
+    {
+      "company": "World Business Institute Pty Ltd., Australia ",
+      "position": "Research Reviewer",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Review papers in the field of Management, Marketing and E-Commerce which are intended for publication in one of the nine international peer reviewed journals of WBI. ",
+      "highlights": [ ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir Syed University of Engineering & Technology",
+      "area": "Computer Engineering",
+      "studyType": "B.S.",
+      "startDate": "2000",
+      "endDate": "2003",
+      "gpa": "3.01",
+      "courses": [
+        "Software, Hardware, Networking"
+      ]
+    }
+  ],
+  "additionaleducation": [
+    {
+      "institution": "IQRA University",
+      "area": "Marketing",
+      "studyType": "MBA",
+      "startDate": "2007",
+      "endDate": "2009",
+      "gpa": "3.09",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "RELATIONSHIP BETWEEN Website Attributes AND Customer Satisfaction: A STUDY OF COMMERCE SYSTEMS IN KARACHI.",
+      "publisher": "World Journal of Social Sciences",
+      "website": "http://www.wjsspapers.com/static/documents/March/2012/2.%20Aum-e-Hani.pdf",
+      "summary": "Selected in 6th Annual London Business Research Conference 2011 organized by World Business Institute - Australia at Imperial College London, UK; Published in World Journal of Social Sciences  - March 2012",
+      "isbn": ""
+    }
+  ],
+  "certification": [
+    {
+      "name": "Certified APMG Foundation and Practitioner",
+      "publisher": "",
+      "website": "",
+      "summary": "Agile Change Management Institute, London, UK",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}
